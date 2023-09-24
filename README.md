@@ -1,4 +1,4 @@
-<b>Projeto realizado no desafio 7 Days of Code da Alura, usando HTML e CSS.</b>
+<b>Projeto realizado no desafio #7DaysOfCode da Alura, usando HTML e CSS.</b>
 
 ![print da tela do site](https://github.com/SilviaKF/OptimusTech/assets/140977249/79a3af49-bcc2-4161-8ab0-29e7968350b5)
 
