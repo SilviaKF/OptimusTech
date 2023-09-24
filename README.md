@@ -6,4 +6,4 @@ Site com ofertas de vagas de emprego para uma empresa fictícia.
 
 <a href="https://www.figma.com/file/1sLrjsZt35eHWqt46pyPcL/7daysOfCode-HTML-CSS-(Copy)?type=design&node-id=0%3A1&mode=design&t=q7c5vzdPWVzqCerh-1">Aqui</a> o projeto de referência no figma.
 
-Clique aqui para visualizar o projeto final!
+<a href="https://silviakf.github.io/OptimusTech/">Clique</a> aqui para visualizar o projeto final!
